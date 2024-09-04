@@ -1,6 +1,6 @@
 Scrn_H 1024
 Scrn_V 768
-Noise_Gn 10
+Noise_Gn 50
 In_Gn 90
 Out_Gn 100
 Gma_Gn 0 
@@ -25,7 +25,7 @@ Full_Screen_Enable 0
 
 Scrn_H 1024
 Scrn_V 768
-Noise_Gn 20
+Noise_Gn 50
 In_Gn 100
 Out_Gn 100
 Gma_Gn 100 
